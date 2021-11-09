@@ -1,3 +1,5 @@
+Convert these to ascii
+
 112 
 105 
 99 
