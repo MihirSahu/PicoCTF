@@ -1,0 +1,20 @@
+//*Remember to do this to center captions: 
+//https://codeyarns.com/2015/09/03/how-to-center-image-caption-in-asciidoctor/
+
+:source-highlighter: pygments
+:pygments-style: emacs
+:icons: font
+:sectnums:
+include::chapters/intro.adoc[]
+include::chapters/shell.adoc[]
+include::chapters/python.adoc[]
+include::chapters/web.adoc[]
+include::chapters/crypto.adoc[]
+include::chapters/network.adoc[]
+include::chapters/sql.adoc[]
+include::chapters/c.adoc[]
+include::chapters/binary.adoc[]
+include::chapters/assembly.adoc[]
+
+
+
